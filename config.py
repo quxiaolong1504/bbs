@@ -17,8 +17,8 @@ fts_username = ''
 fts_password = ''
 
 # change this for deploy is you can registration from http://www.google.com/recaptcha
-recaptcha_public_key = 'your recaptcha_public_key'
-recaptcha_private_key = 'your recaptcha_private_key'
+recaptcha_public_key = '6LcnkB4TAAAAANdJp930qoKCnLJkdYCGE_CYAgff'
+recaptcha_private_key = '6LcnkB4TAAAAAEx9s-ynH7_wOSEmNRO4lF2vAllJ'
 
 daydream_secret = ''
 
